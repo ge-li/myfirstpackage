@@ -1,6 +1,6 @@
-#' Preceq
+#' @title Preceq
 #'
-#' Calculate \eqn{I(x \preceq y) = I(x < y) + 0.5 I(x = y)}
+#' @description Calculate \eqn{I(x \preceq y) = I(x < y) + 0.5 I(x = y)}
 #' @param x numeric
 #' @param y numeric
 #'

@@ -14,3 +14,6 @@ BugReports: https://github.com/ge-li/myfirstpackage/issues
 Imports: 
     magrittr,
     nleqslv
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
